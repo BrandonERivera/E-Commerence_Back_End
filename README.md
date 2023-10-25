@@ -8,10 +8,11 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
+This application is to learn how to use back-end programming by combinding, mysql sequalize and insomnia. This serves as an example to use async requests and api request through servers.
 ## Installations
 node.js, sequalize, mysql
-## Usage
 
+## Usage
 ### Acceptance Criteria:
 ```
 GIVEN a functional Express.js API
@@ -26,7 +27,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
-
+This application will show a demonstration of being able to update mysql databases, call to them in javascript by creating api requests and being able to use insomnia to make the server requests. 
 ## Questions
   See my Github at [brandonERivera](https://github.com/brandonERivera)
   Or reach my email at brandonellis.rivera@gmail.com
